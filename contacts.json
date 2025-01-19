@@ -1,0 +1,25 @@
+{
+    "contact": {
+        "firstName": "LaVell",
+        "lastName": "Edwards",
+        "email": "lavelledwards@byufootball.com",
+        "favoriteColor": "Blue",
+        "birthday": "10/11/1930"
+    },
+    
+    "contact2": {
+        "firstName": "Camila",
+        "lastName": "Allred",
+        "email": "kamila_cortez@hotmail.com",
+        "favoriteColor": "green",
+        "birthday": "02/10/1985"
+    },
+    
+    "contact3": {
+        "firstName": "Kalani",
+        "lastName": "Sitake",
+        "email": "kalanisitake@byufootball.com",
+        "favoriteColor": "Blue",
+        "birthday": "10/10/1975"
+    }
+}
